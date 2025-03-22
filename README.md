@@ -22,6 +22,7 @@ The T-Pot honeypot deployment aimed to establish a decoy system within an AWS en
 ### 1. T-Pot Deployment on AWS
 **Explanation:** This screenshot shows the successful deployment of T-Pot on a Debian 12 instance in AWS. It highlights the key configurations used for the honeypot setup and the network settings.
 ![image](https://github.com/user-attachments/assets/de010f53-96d4-42b9-9451-15708a62aa0d)
+![image](https://github.com/user-attachments/assets/a17b9c50-be99-4069-9292-375897456c24)
 
 ### 2. Cowrie Username/Password Analysis
 **Explanation:** This screenshot showcases how Cowrie was used to capture and analyze the most common usernames and passwords attempted by attackers when interacting with the honeypot.
